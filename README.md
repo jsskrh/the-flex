@@ -29,6 +29,8 @@
 
 ## Getting Started
 
+Access the platform on https://the-flex-three.vercel.app/
+
 ### Prerequisites
 
 - Node.js: v18.17 or higher
