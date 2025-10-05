@@ -27,7 +27,7 @@ const NewsletterSubscriptionForm = () => {
         <Button className="w-full py-3 md:py-4 bg-beta">Subscribe</Button>
       </form>
       <div className="mt-2.5 text-xs text-neutral-500">
-        Don't worry about spam. We hate it too!
+        Don&apos;t worry about spam. We hate it too!
       </div>
     </div>
   );

@@ -10,7 +10,9 @@ export async function getProperty(slug: string): Promise<Property | null> {
     const fileContents = await fs.readFile(filePath, "utf8");
     const properties = JSON.parse(fileContents);
 
-    const property = properties.find((p: any) => p.listingName === decodedSlug);
+    const property = properties.find(
+      (p: Property) => p.listingName === decodedSlug
+    );
 
     if (!property) {
       return null;

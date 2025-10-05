@@ -1,4 +1,4 @@
-import { propertySchema } from "@/lib/types/property";
+import { Property, propertySchema } from "@/lib/types/property";
 import { NextRequest, NextResponse } from "next/server";
 import path from "path";
 import { promises as fs } from "fs";
@@ -10,11 +10,11 @@ export async function GET(
   try {
     const filePath = path.join(process.cwd(), "lib", "data", "properties.json");
     const fileContents = await fs.readFile(filePath, "utf8");
-    const properties = JSON.parse(fileContents);
+    const properties: Property[] = JSON.parse(fileContents);
     console.log(decodeURIComponent(params.slug));
 
     const property = properties.find(
-      (p: any) => p.listingName === decodeURIComponent(params.slug)
+      (p: Property) => p.listingName === decodeURIComponent(params.slug)
     );
 
     if (!property) {

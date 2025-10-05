@@ -8,17 +8,11 @@ import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
-  DropdownMenuRadioGroup,
-  DropdownMenuRadioItem,
   DropdownMenuSeparator,
   DropdownMenuShortcut,
-  DropdownMenuSub,
-  DropdownMenuSubContent,
-  DropdownMenuSubTrigger,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 
-import { labels } from "@/lib/data/data";
 import { reviewSchema } from "@/lib/types/schema";
 import { useState } from "react";
 import { toast } from "sonner";
@@ -36,10 +30,8 @@ export function DataTableRowActions<TData>({
   const [isApproved, setIsApproved] = useState(
     review.isApprovedForPublicDisplay
   );
-  const [isLoading, setIsLoading] = useState(false);
 
   const handleTogglePublicDisplay = async () => {
-    setIsLoading(true);
     try {
       const response = await fetch(`/api/reviews/${review.id}`, {
         method: "PATCH",
@@ -65,8 +57,6 @@ export function DataTableRowActions<TData>({
     } catch (error) {
       console.error("Error updating review:", error);
       toast.error("An error occurred while updating the review");
-    } finally {
-      setIsLoading(false);
     }
   };
 

@@ -11,7 +11,7 @@ import {
 import Image from "next/image";
 
 interface ImageCarouselProps {
-  images: any[];
+  images: { url: string; alt: string }[];
 }
 
 export default function ImageCarousel({ images }: ImageCarouselProps) {

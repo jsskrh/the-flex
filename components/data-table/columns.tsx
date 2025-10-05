@@ -77,6 +77,7 @@ export const getColumns = (onRefresh?: () => void): ColumnDef<Review>[] => [
       );
     },
     cell: ({ row }) => {
+      // eslint-disable-next-line
       const [isApproved, setIsApproved] = useState(
         row.original.isApprovedForPublicDisplay
       );

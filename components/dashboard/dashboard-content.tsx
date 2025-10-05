@@ -7,7 +7,6 @@ import { SectionCards } from "./section-cards";
 
 const DashboardContent = () => {
   const [reviews, setReviews] = useState([]);
-  const [isLoading, setIsLoading] = useState(true);
 
   const fetchReviews = async () => {
     try {
@@ -17,8 +16,6 @@ const DashboardContent = () => {
       setReviews(data);
     } catch (error) {
       console.error("Error fetching reviews:", error);
-    } finally {
-      setIsLoading(false);
     }
   };
 

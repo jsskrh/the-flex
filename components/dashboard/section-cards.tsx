@@ -1,9 +1,14 @@
 "use client";
 
+import { Review } from "@/lib/types/schema";
 import KPICard from "./kpi-card";
 import { useMemo } from "react";
 
-export function SectionCards({ data }: any) {
+interface SectionCardsProps {
+  data: Review[];
+}
+
+export function SectionCards({ data }: SectionCardsProps) {
   const { totalReviews, avgRating, approvalRate } = useMemo(() => {
     if (!Array.isArray(data) || data.length === 0) {
       return {

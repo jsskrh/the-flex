@@ -83,7 +83,7 @@ const Amenities = ({ amenities }: AmenitiesProps) => {
         category: category.category,
       }))
     );
-  }, []);
+  }, [amenities]);
 
   const [shownAmenities, setShownAmenities] = useState(() => {
     if (allAmenities.length <= 9) {

@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { promises as fs } from "fs";
 import path from "path";
+import { Review } from "@/lib/types/schema";
 
 export async function GET(req: NextRequest) {
   try {
@@ -18,19 +19,19 @@ export async function GET(req: NextRequest) {
 
     // Filter for approved reviews only
     let filteredReviews = reviews.filter(
-      (review: any) => review.isApprovedForPublicDisplay === true
+      (review: Review) => review.isApprovedForPublicDisplay === true
     );
 
     // If listingName is provided, filter by property
     if (listingName) {
       const normalizedListingName = listingName.toLowerCase().trim();
-      filteredReviews = filteredReviews.filter((review: any) =>
+      filteredReviews = filteredReviews.filter((review: Review) =>
         review.listingName.toLowerCase().includes(normalizedListingName)
       );
     }
 
     // Sort by date (most recent first)
-    filteredReviews.sort((a: any, b: any) => {
+    filteredReviews.sort((a: Review, b: Review) => {
       return (
         new Date(b.submittedAt).getTime() - new Date(a.submittedAt).getTime()
       );
@@ -45,19 +46,19 @@ export async function GET(req: NextRequest) {
 
     if (filteredReviews.length > 0) {
       const validRatings = filteredReviews.filter(
-        (r: any) => r.overallRating !== null
+        (r: Review) => r.overallRating !== null
       );
 
       if (validRatings.length > 0) {
         const sum = validRatings.reduce(
-          (acc: number, r: any) => acc + (r.overallRating || 0),
+          (acc: number, r: Review) => acc + (r.overallRating || 0),
           0
         );
         stats.averageRating = sum / validRatings.length;
       }
 
       // Count reviews by channel
-      filteredReviews.forEach((review: any) => {
+      filteredReviews.forEach((review: Review) => {
         stats.channelBreakdown[review.channel] =
           (stats.channelBreakdown[review.channel] || 0) + 1;
       });

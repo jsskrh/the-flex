@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { promises as fs } from "fs";
 import path from "path";
+import { Review } from "@/lib/types/schema";
 
 export async function PATCH(
   req: NextRequest,
@@ -37,7 +38,7 @@ export async function PATCH(
     const fileContents = await fs.readFile(filePath, "utf8");
     const reviews = JSON.parse(fileContents);
 
-    const reviewIndex = reviews.findIndex((r: any) => r.id === reviewId);
+    const reviewIndex = reviews.findIndex((r: Review) => r.id === reviewId);
 
     if (reviewIndex === -1) {
       return NextResponse.json({ error: "Review not found" }, { status: 404 });
