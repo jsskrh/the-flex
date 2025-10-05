@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { getColumns } from "../data-table/columns";
 import { DataTable } from "../data-table/data-table";
-import { SectionCards } from "../section-cards";
+import { SectionCards } from "./section-cards";
 
 const DashboardContent = () => {
   const [reviews, setReviews] = useState([]);

@@ -3,7 +3,7 @@
 import KPICard from "./kpi-card";
 import { useMemo } from "react";
 
-export function SectionCards({ data }) {
+export function SectionCards({ data }: any) {
   const { totalReviews, avgRating, approvalRate } = useMemo(() => {
     if (!Array.isArray(data) || data.length === 0) {
       return {

@@ -9,7 +9,7 @@ import { channels } from "@/lib/data/data";
 import { Review } from "@/lib/types/schema";
 import { DataTableColumnHeader } from "./data-table-column-header";
 import { DataTableRowActions } from "./data-table-row-actions";
-import { StarRating } from "../star-rating";
+import { StarRating } from "../dashboard/star-rating";
 import { toast } from "sonner";
 import { useState } from "react";
 import { House } from "lucide-react";

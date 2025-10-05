@@ -6,11 +6,21 @@ import {
   CardFooter,
   CardHeader,
   CardTitle,
-} from "./ui/card";
+} from "../ui/card";
 import { IconTrendingDown, IconTrendingUp } from "@tabler/icons-react";
-import { Badge } from "./ui/badge";
+import { Badge } from "../ui/badge";
 
-const KPICard = ({ title, value, trend, footnote }: { title: string }) => {
+const KPICard = ({
+  title,
+  value,
+  trend,
+  footnote,
+}: {
+  title: string;
+  value: number | string;
+  trend: number;
+  footnote: string;
+}) => {
   return (
     <Card className="@container/card">
       <CardHeader>

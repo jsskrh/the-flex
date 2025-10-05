@@ -1,4 +1,4 @@
-import { Badge } from "./ui/badge";
+import { Badge } from "../ui/badge";
 
 export const StarRating = ({ rating }: { rating: number }) => {
   const roundedRating = Math.round(rating * 2) / 2;
