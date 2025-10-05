@@ -23,7 +23,6 @@ interface DataTableRowActionsProps<TData> {
 
 export function DataTableRowActions<TData>({
   row,
-  onUpdate,
 }: DataTableRowActionsProps<TData>) {
   const review = reviewSchema.parse(row.original);
 
@@ -50,7 +49,6 @@ export function DataTableRowActions<TData>({
             ? "Review approved for public display"
             : "Review removed from public display"
         );
-        onUpdate?.();
       } else {
         toast.error("Failed to update review");
       }

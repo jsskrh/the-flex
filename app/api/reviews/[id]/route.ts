@@ -5,9 +5,11 @@ import { Review } from "@/lib/types/schema";
 
 export async function PATCH(
   req: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
+    const { id } = await params;
+
     // Authentication check
     const apiKey = req.headers.get("x-api-key");
     const accountId = req.headers.get("x-account-id");
@@ -32,7 +34,7 @@ export async function PATCH(
     // Proceed with the original logic
     const body = await req.json();
     const { isApprovedForPublicDisplay } = body;
-    const reviewId = parseInt(params.id);
+    const reviewId = parseInt(id);
 
     const filePath = path.join(process.cwd(), "lib", "data", "reviews.json");
     const fileContents = await fs.readFile(filePath, "utf8");

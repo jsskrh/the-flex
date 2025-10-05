@@ -5,16 +5,17 @@ import { promises as fs } from "fs";
 
 export async function GET(
   req: NextRequest,
-  { params }: { params: { slug: string } }
+  { params }: { params: Promise<{ slug: string }> }
 ) {
   try {
+    const { slug } = await params;
+
     const filePath = path.join(process.cwd(), "lib", "data", "properties.json");
     const fileContents = await fs.readFile(filePath, "utf8");
     const properties: Property[] = JSON.parse(fileContents);
-    console.log(decodeURIComponent(params.slug));
 
     const property = properties.find(
-      (p: Property) => p.listingName === decodeURIComponent(params.slug)
+      (p: Property) => p.listingName === decodeURIComponent(slug)
     );
 
     if (!property) {
