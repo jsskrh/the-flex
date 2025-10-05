@@ -40,6 +40,9 @@ git clone https://github.com/jsskrh/the-flex.git
 cd the-flex
 ```
 
+Install dependencies
+`npm install`
+
 Create a .env.local file in the root directory:
 
 ```bash
