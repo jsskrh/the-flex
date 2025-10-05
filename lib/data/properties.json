@@ -1,0 +1,377 @@
+[
+  {
+    "id": "1",
+    "listingName": "Studio - Richmond Park Lodge",
+    "placeId": "ChIJnVf83AIbdkgR054D55weEBY",
+    "address": "Hyde Park, London",
+    "description": "A beautiful studio apartment located near Hyde Park...",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "maxGuests": 2,
+    "pricePerNight": 150,
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg"
+    ],
+    "amenities": [
+      {
+        "category": "Living room",
+        "items": [
+          { "name": "Cable TV", "icon": "Tv" },
+          { "name": "Private Living Room", "icon": "Sofa" }
+        ]
+      }
+    ],
+    "policies": {
+      "checkTimes": {
+        "checkInTime": "3:00 PM",
+        "checkOutTime": "10:00 AM"
+      },
+      "houseRules": [
+        { "name": "No smoking", "icon": "CircleOff" },
+        { "name": "No pets", "icon": "PawPrint" },
+        { "name": "No parties or events", "icon": "PartyPopper" },
+        { "name": "Security deposit required", "icon": "Shield" }
+      ],
+      "cancellationPolicies": [
+        {
+          "duration": "For stays less than 28 days",
+          "rules": [
+            {
+              "condition": "Full refund",
+              "details": "up to 14 days before check-in"
+            },
+            {
+              "condition": "No refund",
+              "details": "for bookings less than 14 days before check-in"
+            }
+          ]
+        },
+        {
+          "duration": "For stays of 28 days or more",
+          "rules": [
+            {
+              "condition": "Full refund",
+              "details": "up to 30 days before check-in"
+            },
+            {
+              "condition": "No refund",
+              "details": "for bookings less than 30 days before check-in"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "listingName": "Family House - Kensington Gardens",
+    "placeId": "ChIJe29QNB0QdkgR5Kkx_0-jdo4",
+    "address": "Hyde Park, London",
+    "description": "A beautiful studio apartment located near Hyde Park...",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "maxGuests": 2,
+    "pricePerNight": 150,
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg"
+    ],
+    "amenities": [
+      {
+        "category": "Living room",
+        "items": [
+          { "name": "Cable TV", "icon": "Tv" },
+          { "name": "Private Living Room", "icon": "Sofa" }
+        ]
+      },
+      {
+        "category": "Internet & office",
+        "items": [
+          { "name": "Internet", "icon": "Network" },
+          { "name": "Wireless", "icon": "Wifi" },
+          { "name": "Free WiFi", "icon": "Wifi" }
+        ]
+      },
+      {
+        "category": "Kitchen",
+        "items": [
+          { "name": "Toaster", "icon": "Microwave" },
+          { "name": "Microwave", "icon": "Microwave" },
+          { "name": "Electric Kettle", "icon": "Heater" },
+          { "name": "Stove", "icon": "Heater" },
+          { "name": "Kitchen Utensils", "icon": "UtensilsCrossed" },
+          { "name": "Cooking Basics", "icon": "Book" },
+          { "name": "Dining Area", "icon": "HandPlatter" },
+          { "name": "Dining Table", "icon": "Table" }
+        ]
+      },
+      {
+        "category": "Others",
+        "items": [
+          { "name": "Smoke Detector", "icon": "ShieldCheck" },
+          { "name": "Elevator", "icon": "ArrowUpDown" },
+          { "name": "Heating", "icon": "Thermometer" },
+          { "name": "Washing Machine", "icon": "WashingMachine" },
+          { "name": "Hair Dryer", "icon": "Wind" }
+        ]
+      }
+    ],
+    "policies": {
+      "checkTimes": {
+        "checkInTime": "3:00 PM",
+        "checkOutTime": "10:00 AM"
+      },
+      "houseRules": [
+        { "name": "No smoking", "icon": "CircleOff" },
+        { "name": "No pets", "icon": "PawPrint" }
+      ],
+      "cancellationPolicies": [
+        {
+          "duration": "For stays less than 28 days",
+          "rules": [
+            {
+              "condition": "Full refund",
+              "details": "up to 14 days before check-in"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "listingName": "3D N7 B - Islington Commons",
+    "placeId": "ChIJYeklroIddkgRectThuo_Cp4",
+    "address": "Hyde Park, London",
+    "description": "A beautiful studio apartment located near Hyde Park...",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "maxGuests": 2,
+    "pricePerNight": 150,
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg"
+    ],
+    "amenities": [
+      {
+        "category": "Living room",
+        "items": [
+          { "name": "Cable TV", "icon": "Tv" },
+          { "name": "Private Living Room", "icon": "Sofa" }
+        ]
+      },
+      {
+        "category": "Internet & office",
+        "items": [
+          { "name": "Internet", "icon": "Network" },
+          { "name": "Wireless", "icon": "Wifi" },
+          { "name": "Free WiFi", "icon": "Wifi" }
+        ]
+      },
+      {
+        "category": "Kitchen",
+        "items": [
+          { "name": "Toaster", "icon": "Microwave" },
+          { "name": "Microwave", "icon": "Microwave" },
+          { "name": "Electric Kettle", "icon": "Heater" },
+          { "name": "Stove", "icon": "Heater" },
+          { "name": "Kitchen Utensils", "icon": "UtensilsCrossed" },
+          { "name": "Cooking Basics", "icon": "Book" },
+          { "name": "Dining Area", "icon": "HandPlatter" },
+          { "name": "Dining Table", "icon": "Table" }
+        ]
+      },
+      {
+        "category": "Others",
+        "items": [
+          { "name": "Smoke Detector", "icon": "ShieldCheck" },
+          { "name": "Elevator", "icon": "ArrowUpDown" },
+          { "name": "Heating", "icon": "Thermometer" },
+          { "name": "Washing Machine", "icon": "WashingMachine" },
+          { "name": "Hair Dryer", "icon": "Wind" }
+        ]
+      }
+    ],
+    "policies": {
+      "checkTimes": {
+        "checkInTime": "3:00 PM",
+        "checkOutTime": "10:00 AM"
+      },
+      "houseRules": [
+        { "name": "No smoking", "icon": "CircleOff" },
+        { "name": "No pets", "icon": "PawPrint" },
+        { "name": "No parties or events", "icon": "PartyPopper" },
+        { "name": "Security deposit required", "icon": "Shield" }
+      ],
+      "cancellationPolicies": [
+        {
+          "duration": "For stays less than 28 days",
+          "rules": [
+            {
+              "condition": "Full refund",
+              "details": "up to 14 days before check-in"
+            },
+            {
+              "condition": "No refund",
+              "details": "for bookings less than 14 days before check-in"
+            }
+          ]
+        },
+        {
+          "duration": "For stays of 28 days or more",
+          "rules": [
+            {
+              "condition": "Full refund",
+              "details": "up to 30 days before check-in"
+            },
+            {
+              "condition": "No refund",
+              "details": "for bookings less than 30 days before check-in"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "listingName": "Penthouse - Canary Wharf View",
+    "placeId": "ChIJefT-hWIbdkgRAGGu1AuI0qg",
+    "address": "Hyde Park, London",
+    "description": "A beautiful studio apartment located near Hyde Park...",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "maxGuests": 2,
+    "pricePerNight": 150,
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg"
+    ],
+    "amenities": [
+      {
+        "category": "Living room",
+        "items": [
+          { "name": "Cable TV", "icon": "Tv" },
+          { "name": "Private Living Room", "icon": "Sofa" }
+        ]
+      },
+      {
+        "category": "Internet & office",
+        "items": [
+          { "name": "Internet", "icon": "Network" },
+          { "name": "Wireless", "icon": "Wifi" },
+          { "name": "Free WiFi", "icon": "Wifi" }
+        ]
+      },
+      {
+        "category": "Kitchen",
+        "items": [
+          { "name": "Toaster", "icon": "Microwave" },
+          { "name": "Microwave", "icon": "Microwave" },
+          { "name": "Electric Kettle", "icon": "Heater" },
+          { "name": "Stove", "icon": "Heater" },
+          { "name": "Kitchen Utensils", "icon": "UtensilsCrossed" },
+          { "name": "Cooking Basics", "icon": "Book" },
+          { "name": "Dining Area", "icon": "HandPlatter" },
+          { "name": "Dining Table", "icon": "Table" }
+        ]
+      },
+      {
+        "category": "Others",
+        "items": [
+          { "name": "Smoke Detector", "icon": "ShieldCheck" },
+          { "name": "Elevator", "icon": "ArrowUpDown" },
+          { "name": "Heating", "icon": "Thermometer" },
+          { "name": "Washing Machine", "icon": "WashingMachine" },
+          { "name": "Hair Dryer", "icon": "Wind" }
+        ]
+      }
+    ],
+    "policies": {
+      "checkTimes": {
+        "checkInTime": "3:00 PM",
+        "checkOutTime": "10:00 AM"
+      },
+      "houseRules": [
+        { "name": "No smoking", "icon": "CircleOff" },
+        { "name": "No pets", "icon": "PawPrint" }
+      ],
+      "cancellationPolicies": [
+        {
+          "duration": "For stays less than 28 days",
+          "rules": [
+            {
+              "condition": "Full refund",
+              "details": "up to 14 days before check-in"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "placeId": "ChIJHdd94hwbdkgRihDCyn0FD1Y",
+    "address": "Hyde Park, London",
+    "description": "A beautiful studio apartment located near Hyde Park...",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "maxGuests": 2,
+    "pricePerNight": 150,
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg"
+    ],
+    "amenities": [
+      {
+        "category": "Living room",
+        "items": [
+          { "name": "Cable TV", "icon": "Tv" },
+          { "name": "Private Living Room", "icon": "Sofa" }
+        ]
+      }
+    ],
+    "policies": {
+      "checkTimes": {
+        "checkInTime": "3:00 PM",
+        "checkOutTime": "10:00 AM"
+      },
+      "houseRules": [
+        { "name": "No smoking", "icon": "CircleOff" },
+        { "name": "No pets", "icon": "PawPrint" },
+        { "name": "No parties or events", "icon": "PartyPopper" },
+        { "name": "Security deposit required", "icon": "Shield" }
+      ],
+      "cancellationPolicies": [
+        {
+          "duration": "For stays less than 28 days",
+          "rules": [
+            {
+              "condition": "Full refund",
+              "details": "up to 14 days before check-in"
+            },
+            {
+              "condition": "No refund",
+              "details": "for bookings less than 14 days before check-in"
+            }
+          ]
+        },
+        {
+          "duration": "For stays of 28 days or more",
+          "rules": [
+            {
+              "condition": "Full refund",
+              "details": "up to 30 days before check-in"
+            },
+            {
+              "condition": "No refund",
+              "details": "for bookings less than 30 days before check-in"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

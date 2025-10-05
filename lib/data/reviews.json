@@ -1,0 +1,3700 @@
+[
+  {
+    "id": 1,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Caleb Ullrich II",
+    "publicReviewText": "Delego benevolentia complectus turpis testimonium clam facere ars.Fantastic stay! Everything was perfect and Z.Volubilis vallum solio villa.Fantastic stay! Everything was perfect and Z.Statim delinquo cernuus vel averto eius abduco quaerat nostrum civis.",
+    "overallRating": 3.2,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-16T12:34:26.328Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 5
+      },
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "check_in",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Johnny Huels",
+    "publicReviewText": "Vis facilis ventus cresco carcer cupressus voluptatum cogo.Fantastic stay! Everything was perfect and Z.Aeger xiphias suffoco brevis defetiscor velum ara vestrum.",
+    "overallRating": 4.3,
+    "channel": "airbnb",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-09T21:20:02.345Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Kelvin Tillman",
+    "publicReviewText": "Ver aeger suus spiritus colo comitatus accendo tamdiu.The worst part was X. Needs improvement in Y.Crur provident brevis trucido.",
+    "overallRating": 2.8,
+    "channel": "airbnb",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-19T07:12:03.743Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 6
+      },
+      {
+        "category": "check_in",
+        "rating": 5
+      },
+      {
+        "category": "cleanliness",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Peggy Kshlerin",
+    "publicReviewText": "Suffragium audax contabesco.Fantastic stay! Everything was perfect and Z.Stultus vomito amor comedo absque demitto.Fantastic stay! Everything was perfect and Z.Vallum cohaero corrumpo arbor territo dignissimos statim.Fantastic stay! Everything was perfect and Z.Viriliter communis coadunatio vester volubilis compello curtus copiose aliquid.",
+    "overallRating": 3.8,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-15T23:48:25.368Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 9
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Vincent Little",
+    "publicReviewText": "Utilis utilis amoveo utilis deserunt voluptas utroque.The worst part was X. Needs improvement in Y.Ubi constans crebro inventore.",
+    "overallRating": 2.8,
+    "channel": "google",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-30T08:39:11.411Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 7
+      },
+      {
+        "category": "location",
+        "rating": 9
+      },
+      {
+        "category": "value",
+        "rating": 10
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Richard Weimann",
+    "publicReviewText": "Audeo stella studio nesciunt cerno voluptas.Fantastic stay! Everything was perfect and Z.Bis impedit abutor.Fantastic stay! Everything was perfect and Z.Audeo ter aliquam vociferor aperio commemoro minus.",
+    "overallRating": 3.7,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-21T10:26:33.931Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 6
+      },
+      {
+        "category": "value",
+        "rating": 8
+      },
+      {
+        "category": "check_in",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Tami Blanda",
+    "publicReviewText": "Aliqua vere certe.Fantastic stay! Everything was perfect and Z.Cubo ullam deserunt vereor.",
+    "overallRating": 2.5,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-10-01T02:13:09.144Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "William Ward",
+    "publicReviewText": "Vulgo cotidie assumenda defetiscor animus ante cibo viduo.Fantastic stay! Everything was perfect and Z.Clibanus stultus arbustum vito deporto umbra tam vester conqueror.Fantastic stay! Everything was perfect and Z.Cohaero quaerat comparo coadunatio custodia benevolentia comburo suscipit.Fantastic stay! Everything was perfect and Z.Bellicus tero cognomen dolores auxilium ars spectaculum optio defendo.",
+    "overallRating": 3.5,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-15T09:49:55.358Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 10
+      },
+      {
+        "category": "check_in",
+        "rating": 6
+      },
+      {
+        "category": "cleanliness",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Cary Cummerata DVM",
+    "publicReviewText": "Ultio caelestis amplitudo denique cura vinco ater creber suggero.Fantastic stay! Everything was perfect and Z.Dolore velum arbor sophismata sono vestrum talio.Fantastic stay! Everything was perfect and Z.Umquam teneo aveho.",
+    "overallRating": 3.3,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-08T17:26:56.190Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 7
+      },
+      {
+        "category": "value",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Miguel Borer",
+    "publicReviewText": "Compello coniecto terra casus ventosus confugo comprehendo conor aliquam veritatis.The worst part was X. Needs improvement in Y.Cogo vetus arceo solium iure cognatus.",
+    "overallRating": 2.9,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-07-09T06:46:25.876Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Rickey Johnston",
+    "publicReviewText": "Antepono curatio acies spero calamitas quam trado spectaculum.The worst part was X. Needs improvement in Y.Comptus voluptates desipio color enim apud summa asper.The worst part was X. Needs improvement in Y.Ciminatio substantia vilicus tempus dolores ars veritas.",
+    "overallRating": 2.8,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-28T03:57:04.178Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 7
+      },
+      {
+        "category": "value",
+        "rating": 9
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 8
+      },
+      {
+        "category": "communication",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Donnie Weber",
+    "publicReviewText": "Comedo cruentus solum uterque correptius deludo censura coerceo.Fantastic stay! Everything was perfect and Z.Baiulus allatus amitto laudantium bis capto.Fantastic stay! Everything was perfect and Z.Virtus adopto comptus.",
+    "overallRating": 4.8,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-17T14:26:29.453Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 10
+      },
+      {
+        "category": "communication",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Mr. Brad Stroman",
+    "publicReviewText": "Arcus deleo sophismata tenax demo taedium.Fantastic stay! Everything was perfect and Z.Subnecto thalassinus timor absque blanditiis antepono vilis verumtamen quis utor.Fantastic stay! Everything was perfect and Z.Delectus peior adimpleo natus cursim.",
+    "overallRating": 3.4,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-07-11T01:08:44.872Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 5
+      },
+      {
+        "category": "check_in",
+        "rating": 9
+      },
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Dana Pollich",
+    "publicReviewText": "Termes aranea coadunatio spoliatio super autus cavus.Fantastic stay! Everything was perfect and Z.Speciosus temporibus eaque chirographum.",
+    "overallRating": 3.8,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-28T11:18:12.092Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 7
+      },
+      {
+        "category": "location",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Ruth Baumbach",
+    "publicReviewText": "Sunt credo vorax vestrum earum aro aeger voco cur tenax.Fantastic stay! Everything was perfect and Z.Dapifer appono coruscus suppellex cultura terra audentia ait.",
+    "overallRating": 3.8,
+    "channel": "google",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-06-21T12:45:27.082Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 8
+      },
+      {
+        "category": "communication",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Jane Hand",
+    "publicReviewText": "Terreo sublime modi tersus aestus deorsum templum.Fantastic stay! Everything was perfect and Z.Artificiose iure contabesco cervus argumentum.Fantastic stay! Everything was perfect and Z.Voluptatem vinitor peccatus concedo demens coepi.",
+    "overallRating": 4.3,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-11T06:11:14.284Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 10
+      },
+      {
+        "category": "value",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Krista Stokes",
+    "publicReviewText": "Deorsum dicta voro quisquam ipsum debitis caute temeritas absum toties.Fantastic stay! Everything was perfect and Z.Alii defero ustulo cibo corrupti.Fantastic stay! Everything was perfect and Z.Usque calculus harum teres conicio.",
+    "overallRating": 4,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-09T00:00:28.029Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 10
+      },
+      {
+        "category": "check_in",
+        "rating": 6
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Francisco Fisher-Stehr",
+    "publicReviewText": "Velum aqua demoror vulgaris.Fantastic stay! Everything was perfect and Z.Decimus aperio eaque decerno somnus tutis arguo vesco.Fantastic stay! Everything was perfect and Z.Templum inflammatio varietas turba antea alveus canis videlicet territo quibusdam.",
+    "overallRating": 4.3,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-29T16:37:54.488Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 8
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Joann Kozey",
+    "publicReviewText": "Sequi clamo depereo solus corpus cedo vulariter.Fantastic stay! Everything was perfect and Z.Careo angulus ars talis adfectus cicuta suscipit vae viridis cura.Fantastic stay! Everything was perfect and Z.Verus totidem comprehendo arma volaticus.Fantastic stay! Everything was perfect and Z.Eos reprehenderit valeo numquam amita nam denique acidus.",
+    "overallRating": 3.8,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-06-09T15:39:21.167Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Jenny Grimes",
+    "publicReviewText": "Supplanto illum clamo curto tergo tonsor debeo.Fantastic stay! Everything was perfect and Z.Apparatus vicissitudo reprehenderit suppono surgo.",
+    "overallRating": 4,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-18T01:59:35.876Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 6
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Rita Conroy",
+    "publicReviewText": "Pauper inventore curvo.Fantastic stay! Everything was perfect and Z.Carbo suggero creator benevolentia surgo textilis.Fantastic stay! Everything was perfect and Z.Trans caute decerno celer tertius aro bibo abutor ratione.Fantastic stay! Everything was perfect and Z.Desino studio vobis.",
+    "overallRating": 4.1,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-31T21:53:45.003Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 8
+      },
+      {
+        "category": "location",
+        "rating": 7
+      },
+      {
+        "category": "check_in",
+        "rating": 10
+      },
+      {
+        "category": "communication",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Daryl Sporer",
+    "publicReviewText": "Comis video celebrer delego vulgo comminor sonitus peccatus bene usque.Fantastic stay! Everything was perfect and Z.Depulso cicuta dolorem ciminatio subito vestigium.Fantastic stay! Everything was perfect and Z.Absens carpo conventus.",
+    "overallRating": 3.5,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-25T20:29:15.842Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 6
+      },
+      {
+        "category": "value",
+        "rating": 7
+      },
+      {
+        "category": "cleanliness",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Barbara Hilll",
+    "publicReviewText": "Curis claustrum decet velum statua solutio deputo accusantium tempus.Fantastic stay! Everything was perfect and Z.Cupiditas curis talus cibo stipes corrupti quo cicuta.Fantastic stay! Everything was perfect and Z.Debitis porro amita comedo constans commodo uterque alter.Fantastic stay! Everything was perfect and Z.Theca temptatio pectus tardus adaugeo ullus.",
+    "overallRating": 4.4,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-12T18:41:21.458Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 8
+      },
+      {
+        "category": "location",
+        "rating": 8
+      },
+      {
+        "category": "value",
+        "rating": 10
+      },
+      {
+        "category": "communication",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Ebony Torphy",
+    "publicReviewText": "Sordeo clamo curtus.The worst part was X. Needs improvement in Y.Creta aer curiositas.The worst part was X. Needs improvement in Y.Caute avarus ducimus.",
+    "overallRating": 1.9,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-16T07:15:07.628Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 6
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      },
+      {
+        "category": "communication",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Mr. Mathew Smith",
+    "publicReviewText": "Debitis spectaculum laborum contego fuga amaritudo animadverto officiis admoveo admitto.Fantastic stay! Everything was perfect and Z.Templum libero patruus tricesimus triduana thymum cubo repudiandae subito.Fantastic stay! Everything was perfect and Z.Adeptio eveniet damno autus terreo coerceo.",
+    "overallRating": 3,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-06-20T13:03:22.255Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 5
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Mrs. Ebony Grant",
+    "publicReviewText": "Cena apto eius.Fantastic stay! Everything was perfect and Z.Molestias tracto utilis.",
+    "overallRating": 4.3,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-27T16:17:01.859Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 10
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Mr. Jim Gleason",
+    "publicReviewText": "Dolorum adeo textor curia corrupti cuppedia corpus aveho.The worst part was X. Needs improvement in Y.Subito vereor admitto communis calamitas aqua cui caput civis.",
+    "overallRating": 2.8,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-06-21T04:12:16.903Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 9
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      },
+      {
+        "category": "location",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Mr. Nick Toy V",
+    "publicReviewText": "Abbas terminatio congregatio demoror ante aeger vesica impedit vulnus aeternus.Fantastic stay! Everything was perfect and Z.Vicissitudo consequatur facilis utrum.Fantastic stay! Everything was perfect and Z.Defaeco suus tactus dolore carbo.Fantastic stay! Everything was perfect and Z.Clibanus absens cursus curatio tactus atrox harum curatio thymum.",
+    "overallRating": 2.5,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-17T21:19:47.235Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Lillian Turcotte",
+    "publicReviewText": "Inventore minima agnosco antepono causa sursum.Fantastic stay! Everything was perfect and Z.Caterva libero vivo concido somnus validus.Fantastic stay! Everything was perfect and Z.Conicio aranea ultra cubitum defleo.",
+    "overallRating": 4.1,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-20T18:50:28.786Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 10
+      },
+      {
+        "category": "cleanliness",
+        "rating": 8
+      },
+      {
+        "category": "value",
+        "rating": 6
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Gina Roob",
+    "publicReviewText": "Vesica coma amor abbas vergo alter vomica sui.Fantastic stay! Everything was perfect and Z.Territo soleo decerno solium urbanus.",
+    "overallRating": 3.5,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-02T21:12:42.400Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 9
+      },
+      {
+        "category": "location",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Fred Hermiston",
+    "publicReviewText": "Subseco bellicus dedecor thymum cauda coerceo tergeo audax.Fantastic stay! Everything was perfect and Z.Antepono tibi collum uterque aegre cogo.Fantastic stay! Everything was perfect and Z.Amplexus tergo tracto antiquus confero aranea amplitudo utique creptio vos.Fantastic stay! Everything was perfect and Z.Culpo adflicto aestivus.",
+    "overallRating": 4,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-27T19:54:47.583Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 7
+      },
+      {
+        "category": "cleanliness",
+        "rating": 10
+      },
+      {
+        "category": "value",
+        "rating": 5
+      },
+      {
+        "category": "check_in",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Tabitha Willms",
+    "publicReviewText": "Totus quas temperantia aperte coadunatio ambulo solitudo delego.Fantastic stay! Everything was perfect and Z.Triumphus carpo cuppedia tergeo agnosco temptatio quae.",
+    "overallRating": 4.8,
+    "channel": "google",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-05T07:44:15.624Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 9
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Dr. Freddie Klocko",
+    "publicReviewText": "Crux cimentarius defluo.Fantastic stay! Everything was perfect and Z.Demonstro ultio degusto traho dapifer solum nisi thesis.Fantastic stay! Everything was perfect and Z.Debitis teneo sapiente terminatio thorax viscus teres basium explicabo sui.",
+    "overallRating": 3.6,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-18T02:08:52.070Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 10
+      },
+      {
+        "category": "cleanliness",
+        "rating": 6
+      },
+      {
+        "category": "communication",
+        "rating": 6
+      },
+      {
+        "category": "check_in",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Philip Medhurst DVM",
+    "publicReviewText": "Conventus decet bellum vespillo tandem cras nam correptius spes thesis.Fantastic stay! Everything was perfect and Z.Arx amiculum animus ceno tametsi.",
+    "overallRating": 3.2,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-29T17:16:20.903Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 7
+      },
+      {
+        "category": "location",
+        "rating": 6
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Damon Auer",
+    "publicReviewText": "Vapulus vehemens commodi minima strenuus apparatus.Fantastic stay! Everything was perfect and Z.Et volva deficio conitor.",
+    "overallRating": 4.3,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-28T03:50:13.782Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 10
+      },
+      {
+        "category": "communication",
+        "rating": 9
+      },
+      {
+        "category": "check_in",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Olive Boyer",
+    "publicReviewText": "Demitto uxor iure voluptatibus placeat delinquo nesciunt tempus audio tunc.Fantastic stay! Everything was perfect and Z.Versus utor cimentarius termes beatus argumentum cometes claudeo.Fantastic stay! Everything was perfect and Z.Tres verto thymum.",
+    "overallRating": 4.1,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-26T22:42:35.301Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 9
+      },
+      {
+        "category": "check_in",
+        "rating": 9
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 9
+      },
+      {
+        "category": "cleanliness",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Eloise Osinski",
+    "publicReviewText": "Umerus delectus doloremque cur considero apparatus creator.Fantastic stay! Everything was perfect and Z.Sapiente succurro despecto numquam vado bardus similique.",
+    "overallRating": 4.1,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-18T15:00:51.432Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 9
+      },
+      {
+        "category": "check_in",
+        "rating": 10
+      },
+      {
+        "category": "communication",
+        "rating": 8
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Jill Reynolds",
+    "publicReviewText": "Cimentarius conicio aliquam contego tabgo peior id delicate considero.Fantastic stay! Everything was perfect and Z.Atqui talus animus corrigo via voveo administratio cubicularis bestia.",
+    "overallRating": 2.5,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-11T08:00:52.600Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Melody Treutel",
+    "publicReviewText": "Animus amo accusamus aeneus adamo catena necessitatibus.The worst part was X. Needs improvement in Y.Incidunt angustus arbitro venia testimonium cometes cerno.The worst part was X. Needs improvement in Y.Molestias comes ter cras certus torrens.",
+    "overallRating": 1.5,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-05T17:53:07.121Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 10
+      },
+      {
+        "category": "value",
+        "rating": 6
+      },
+      {
+        "category": "cleanliness",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Norma Ernser-Gutmann",
+    "publicReviewText": "Pariatur decerno molestiae debilito adversus corpus capitulus.Fantastic stay! Everything was perfect and Z.Bonus aduro terga umquam cupiditate ambulo.Fantastic stay! Everything was perfect and Z.Stips undique tabella.Fantastic stay! Everything was perfect and Z.Aeternus vita defaeco annus.",
+    "overallRating": 4.3,
+    "channel": "airbnb",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-02T07:31:29.010Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 10
+      },
+      {
+        "category": "cleanliness",
+        "rating": 8
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Patti Auer",
+    "publicReviewText": "Aveho minima collum pax tertius vigilo antea volubilis suffragium bibo.Fantastic stay! Everything was perfect and Z.Toties cras statim subseco conforto aspicio necessitatibus trepide.Fantastic stay! Everything was perfect and Z.Atavus certe suppellex culpo truculenter.",
+    "overallRating": 4.5,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-25T06:39:39.896Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 10
+      },
+      {
+        "category": "communication",
+        "rating": 10
+      },
+      {
+        "category": "location",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Ramona Douglas",
+    "publicReviewText": "Curiositas addo illo cetera asper vesper.Fantastic stay! Everything was perfect and Z.Tertius astrum enim vinitor paens chirographum.",
+    "overallRating": 3.3,
+    "channel": "google",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-20T01:31:11.333Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 8
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Ron Hermann",
+    "publicReviewText": "Benigne denuo tergiversatio theatrum solum cursim cursim ago bellum.The worst part was X. Needs improvement in Y.Triduana sunt tremo teres nostrum aegrus avarus inflammatio peccatus.The worst part was X. Needs improvement in Y.Id maiores aequus.The worst part was X. Needs improvement in Y.Attollo callide turpis ratione tenax aperiam.",
+    "overallRating": 2.5,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-16T03:52:29.087Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 6
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      },
+      {
+        "category": "value",
+        "rating": 9
+      },
+      {
+        "category": "cleanliness",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Homer Murphy-Quitzon",
+    "publicReviewText": "Deduco solio velit consuasor cultura ascisco.Fantastic stay! Everything was perfect and Z.Ustulo stabilis placeat cultura.Fantastic stay! Everything was perfect and Z.Subiungo reprehenderit cribro ait tabella addo maxime.Fantastic stay! Everything was perfect and Z.Surculus celo arbor paens strues amet velit solvo cuppedia assumenda.",
+    "overallRating": 3.3,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-04T11:39:23.929Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "cleanliness",
+        "rating": 10
+      },
+      {
+        "category": "location",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Rodolfo Robel",
+    "publicReviewText": "Terreo averto usus aggero torrens asper cupio pel.Fantastic stay! Everything was perfect and Z.Quam suppono cilicium tantum tabella.",
+    "overallRating": 3.7,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-06-10T21:29:22.113Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "check_in",
+        "rating": 7
+      },
+      {
+        "category": "value",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Gayle MacGyver",
+    "publicReviewText": "Adinventitias calculus peccatus decumbo spiritus aedificium adnuo cerno congregatio creo.The worst part was X. Needs improvement in Y.Tantillus tabesco velut admoveo itaque ventus aggero conitor.",
+    "overallRating": 2,
+    "channel": "airbnb",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-07T13:58:21.644Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 10
+      },
+      {
+        "category": "cleanliness",
+        "rating": 8
+      },
+      {
+        "category": "check_in",
+        "rating": 8
+      },
+      {
+        "category": "value",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Johnnie Mayert",
+    "publicReviewText": "Comptus talus odio apostolus virtus supra modi vorax tendo labore.Fantastic stay! Everything was perfect and Z.Constans vitium denuo stultus cursim consequuntur architecto summopere coaegresco.",
+    "overallRating": 4.3,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-26T01:47:16.913Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 8
+      },
+      {
+        "category": "value",
+        "rating": 9
+      },
+      {
+        "category": "check_in",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Sonia Stehr",
+    "publicReviewText": "Curatio cerno atqui sordeo tepidus pectus appositus laboriosam cupiditate.Fantastic stay! Everything was perfect and Z.Alienus comedo volva truculenter minus turba benigne coepi.Fantastic stay! Everything was perfect and Z.Arceo tantillus decet depereo defluo aut sulum sopor alo.Fantastic stay! Everything was perfect and Z.Absque dolores desipio denique cedo desolo vehemens delego.",
+    "overallRating": 3.9,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-06-13T23:28:35.977Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 9
+      },
+      {
+        "category": "check_in",
+        "rating": 9
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Bridget Wiegand",
+    "publicReviewText": "Ventus curatio clamo at desino valeo quia summisse suspendo vere.Fantastic stay! Everything was perfect and Z.Demoror amoveo verus tabesco socius.Fantastic stay! Everything was perfect and Z.Desino possimus vulgaris aperio utilis tamisium.Fantastic stay! Everything was perfect and Z.Quibusdam minima defluo ustulo tribuo succedo.",
+    "overallRating": 3.8,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-21T15:46:11.563Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      },
+      {
+        "category": "check_in",
+        "rating": 7
+      },
+      {
+        "category": "communication",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Frances Trantow",
+    "publicReviewText": "Administratio aveho vesco vox.The worst part was X. Needs improvement in Y.Bibo bos cilicium truculenter abbas.",
+    "overallRating": 2,
+    "channel": "google",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-07-12T17:26:58.163Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 10
+      },
+      {
+        "category": "location",
+        "rating": 10
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Winifred Donnelly",
+    "publicReviewText": "Degero ancilla summopere cuius veritatis laborum sumo.Fantastic stay! Everything was perfect and Z.Abeo tego atrox via.Fantastic stay! Everything was perfect and Z.Tergiversatio denuo enim tibi.",
+    "overallRating": 3.3,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-06-30T12:29:58.096Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 8
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Kate Klocko",
+    "publicReviewText": "Volubilis quia patria quisquam attonbitus confugo.Fantastic stay! Everything was perfect and Z.At torrens adopto tergum mollitia umquam torrens.Fantastic stay! Everything was perfect and Z.Absum praesentium admiratio concedo assumenda patrocinor qui.Fantastic stay! Everything was perfect and Z.Ipsa deserunt corroboro supellex absum tricesimus capto cubicularis damnatio ventosus.",
+    "overallRating": 4.3,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-25T07:31:54.177Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 8
+      },
+      {
+        "category": "cleanliness",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Casey Herman",
+    "publicReviewText": "Condico vulticulus strues commemoro rem patrocinor combibo ad uter.Fantastic stay! Everything was perfect and Z.Accommodo quaerat tabgo solium ambitus.Fantastic stay! Everything was perfect and Z.Atqui arguo itaque una cumque ex desparatus.Fantastic stay! Everything was perfect and Z.Placeat volutabrum video tenus.",
+    "overallRating": 4,
+    "channel": "airbnb",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-10T22:25:15.353Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      },
+      {
+        "category": "location",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Gloria Mante",
+    "publicReviewText": "Utique testimonium coaegresco.The worst part was X. Needs improvement in Y.Molestiae pel adhuc.The worst part was X. Needs improvement in Y.Saepe debitis et totidem.The worst part was X. Needs improvement in Y.Optio credo curatio credo carmen demoror canto.",
+    "overallRating": 2.6,
+    "channel": "google",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-27T19:53:12.838Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "check_in",
+        "rating": 10
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Carl Luettgen",
+    "publicReviewText": "Inventore sunt iste acervus corpus corona tenetur atrox balbus acer.Fantastic stay! Everything was perfect and Z.Crur ullam quidem claustrum stella labore ante tumultus.Fantastic stay! Everything was perfect and Z.Ater arbitro statua atrox templum vester accommodo comes amiculum.Fantastic stay! Everything was perfect and Z.Statim textus decipio minus sto pauci fugiat.",
+    "overallRating": 2.8,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-07-10T08:26:24.848Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 6
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Philip Halvorson",
+    "publicReviewText": "Capto suspendo attollo labore trepide tot.Fantastic stay! Everything was perfect and Z.Capitulus aureus textor tempora.Fantastic stay! Everything was perfect and Z.Tonsor velum patior.",
+    "overallRating": 3.8,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-20T03:11:34.902Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 8
+      },
+      {
+        "category": "location",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Wallace Bailey",
+    "publicReviewText": "Tabella cupressus adsuesco aureus venia dapifer molestiae.Fantastic stay! Everything was perfect and Z.Claustrum surgo vulticulus.",
+    "overallRating": 3.1,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-09T22:01:18.407Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 7
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "check_in",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Greg Stiedemann",
+    "publicReviewText": "Debilito inflammatio solus victoria deorsum paulatim socius vigilo necessitatibus vulpes.The worst part was X. Needs improvement in Y.Spiculum voluptas nesciunt clibanus tondeo concedo urbs asper adduco.",
+    "overallRating": 2.4,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-12T23:33:01.923Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 6
+      },
+      {
+        "category": "check_in",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Dr. Taylor Kshlerin",
+    "publicReviewText": "Concedo ustilo comes considero.Fantastic stay! Everything was perfect and Z.Ultra viridis caput bestia comparo pariatur.Fantastic stay! Everything was perfect and Z.Cunae voluptate cur vaco tondeo cauda vulnero desparatus bis conservo.Fantastic stay! Everything was perfect and Z.Testimonium eligendi atque aliquid tamisium vigor.",
+    "overallRating": 4.3,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-30T07:04:03.239Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 10
+      },
+      {
+        "category": "check_in",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Beatrice Maggio",
+    "publicReviewText": "Adicio comminor absorbeo.The worst part was X. Needs improvement in Y.Cibo triduana circumvenio arca.",
+    "overallRating": 1.9,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-21T01:20:33.205Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 10
+      },
+      {
+        "category": "check_in",
+        "rating": 6
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Bertha Nikolaus",
+    "publicReviewText": "Baiulus dolor assumenda delicate commemoro maxime vesper tero stips.The worst part was X. Needs improvement in Y.Terror caste ustilo ab veritas deserunt vehemens.The worst part was X. Needs improvement in Y.Arbor cena capio suasoria alias tersus reiciendis condico cattus.The worst part was X. Needs improvement in Y.Vita usitas suppono iste tum tribuo.",
+    "overallRating": 1.5,
+    "channel": "google",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-26T06:37:17.919Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 8
+      },
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 8
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Dr. Kari Lowe",
+    "publicReviewText": "Certe odit arbitro patruus arcus thalassinus temperantia templum.Fantastic stay! Everything was perfect and Z.Communis vox truculenter.Fantastic stay! Everything was perfect and Z.Minima usus a.",
+    "overallRating": 4.3,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-01T09:15:02.737Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      },
+      {
+        "category": "communication",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Melvin Skiles I",
+    "publicReviewText": "Natus voluptatem validus velum desolo timor apud.Fantastic stay! Everything was perfect and Z.Dolores colligo acidus.Fantastic stay! Everything was perfect and Z.Ratione caste virga assentator tui tergum.",
+    "overallRating": 3.8,
+    "channel": "google",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-07T15:04:58.249Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 7
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 10
+      },
+      {
+        "category": "location",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Lois Buckridge",
+    "publicReviewText": "Ter quo sopor vomica animus facere dolorem adfero fugiat.Fantastic stay! Everything was perfect and Z.Ubi amet aegrus comedo desparatus amplexus eius spiculum adsum.Fantastic stay! Everything was perfect and Z.Vorax theatrum ambitus.Fantastic stay! Everything was perfect and Z.Cui alo sophismata.",
+    "overallRating": 3.8,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-07-27T00:35:15.223Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 9
+      },
+      {
+        "category": "cleanliness",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Brandi Spinka",
+    "publicReviewText": "Truculenter velum patria sapiente abundans amor tero rem tondeo patrocinor.Fantastic stay! Everything was perfect and Z.Tabella valde eum.Fantastic stay! Everything was perfect and Z.Vestigium arx contego comminor atrocitas in cado caste.Fantastic stay! Everything was perfect and Z.Strenuus perferendis valeo voluptas suscipit canis.",
+    "overallRating": 4.5,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-29T16:34:29.926Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 8
+      },
+      {
+        "category": "check_in",
+        "rating": 10
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Alicia Hills",
+    "publicReviewText": "Paulatim tollo fugiat cenaculum conicio tibi vere civitas.The worst part was X. Needs improvement in Y.Vociferor desolo confugo vos.The worst part was X. Needs improvement in Y.Validus praesentium occaecati unus deduco tonsor deserunt aliquam vilis.",
+    "overallRating": 3.3,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-23T14:27:53.900Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 8
+      },
+      {
+        "category": "value",
+        "rating": 5
+      },
+      {
+        "category": "cleanliness",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Linda Stiedemann",
+    "publicReviewText": "Arx versus vicissitudo acquiro curtus vito debeo ducimus.The worst part was X. Needs improvement in Y.Tactus acerbitas demulceo spes tergeo utrimque acquiro volva tamisium.",
+    "overallRating": 2.6,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-13T05:52:06.398Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 8
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Isabel Reynolds",
+    "publicReviewText": "Careo vindico argentum cribro conatus.Fantastic stay! Everything was perfect and Z.Crepusculum fugit verecundia desipio thymbra copia.Fantastic stay! Everything was perfect and Z.Absque quas caelum crebro tenus atavus contego alius via curo.Fantastic stay! Everything was perfect and Z.Sum speculum ver possimus confero autus dolor defungo nisi.",
+    "overallRating": 4,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-01T17:36:14.455Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 6
+      },
+      {
+        "category": "location",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Alfonso Mann",
+    "publicReviewText": "Decimus porro tamen.The worst part was X. Needs improvement in Y.Modi adicio sophismata adsum culpo cubicularis sui.The worst part was X. Needs improvement in Y.Pel certus aeger depopulo vae.",
+    "overallRating": 1.5,
+    "channel": "airbnb",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-03T06:38:29.749Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 9
+      },
+      {
+        "category": "location",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Alberto Skiles",
+    "publicReviewText": "Vaco curatio conservo optio caecus illum cura vinco.Fantastic stay! Everything was perfect and Z.Vilicus contabesco maxime tamquam admitto quisquam.Fantastic stay! Everything was perfect and Z.Vinculum patruus sequi creptio veritatis attonbitus decet delectus sequi.Fantastic stay! Everything was perfect and Z.Abbas custodia bene.",
+    "overallRating": 3.8,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-29T09:47:32.629Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 8
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Helen Ankunding",
+    "publicReviewText": "Cilicium talus valeo creator terror stipes spiculum omnis.Fantastic stay! Everything was perfect and Z.Pecus adficio accusantium apparatus arcesso talis verbera.Fantastic stay! Everything was perfect and Z.Suscipit adicio similique quasi via.",
+    "overallRating": 3.5,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-14T10:09:53.979Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Eunice O'Conner",
+    "publicReviewText": "Stips velum ustilo conicio.Fantastic stay! Everything was perfect and Z.Terebro avaritia ago talus turbo conspergo autem valde.Fantastic stay! Everything was perfect and Z.Abeo sordeo et dolor sufficio aequus sordeo canonicus.Fantastic stay! Everything was perfect and Z.Tam vulgivagus placeat crepusculum cognatus dens.",
+    "overallRating": 4,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-21T13:27:22.688Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 10
+      },
+      {
+        "category": "location",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Elena Hyatt",
+    "publicReviewText": "Amplitudo adamo velut carus tabula paulatim cohibeo sequi tamen cinis.Fantastic stay! Everything was perfect and Z.Uter distinctio tener cohaero ocer defessus itaque.",
+    "overallRating": 2.8,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-07-01T02:12:56.736Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "check_in",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Santiago Beahan I",
+    "publicReviewText": "Stipes ducimus tenetur abbas animi combibo tollo tyrannus suffragium.Fantastic stay! Everything was perfect and Z.Vir doloremque curto deludo pecto vox apto.Fantastic stay! Everything was perfect and Z.Decet degero vestrum taceo recusandae verus.",
+    "overallRating": 4.3,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-31T03:13:25.881Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 9
+      },
+      {
+        "category": "check_in",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Andrew Crist-Nienow",
+    "publicReviewText": "Suffragium aggredior catena vomer charisma cuppedia cunabula.Fantastic stay! Everything was perfect and Z.Pectus vobis auctus comis sumptus utrum.Fantastic stay! Everything was perfect and Z.Asporto vomica asperiores tego aveho.",
+    "overallRating": 5,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-17T22:27:10.591Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 10
+      },
+      {
+        "category": "communication",
+        "rating": 10
+      },
+      {
+        "category": "cleanliness",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Antonio Schumm",
+    "publicReviewText": "Adulescens validus numquam absorbeo delicate atrox subvenio cras et thymum.Fantastic stay! Everything was perfect and Z.Speciosus statua timidus arcesso degero.Fantastic stay! Everything was perfect and Z.Omnis conforto stips vomer cribro conduco aiunt.Fantastic stay! Everything was perfect and Z.Maiores suffragium caritas curriculum theca.",
+    "overallRating": 3,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-29T17:11:30.247Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 6
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 6
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Shawn Walker",
+    "publicReviewText": "Desipio crepusculum demergo villa ad tum.Fantastic stay! Everything was perfect and Z.Condico via tactus vespillo quibusdam conculco somniculosus crebro ago totus.",
+    "overallRating": 3.2,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-10T02:44:00.188Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 6
+      },
+      {
+        "category": "value",
+        "rating": 7
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Miss Leslie Welch DDS",
+    "publicReviewText": "Voveo alioqui suus aegre tabesco.Fantastic stay! Everything was perfect and Z.Delibero adstringo ambulo tollo basium adfero vilitas damnatio.Fantastic stay! Everything was perfect and Z.Desparatus conforto aurum acervus abstergo cetera barba.Fantastic stay! Everything was perfect and Z.Usus possimus administratio.",
+    "overallRating": 2.8,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-17T03:37:21.686Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Dr. Brandon Nienow",
+    "publicReviewText": "Curis excepturi cedo acquiro.Fantastic stay! Everything was perfect and Z.Civis coma vir amitto iste arbor talio.Fantastic stay! Everything was perfect and Z.Vestrum bibo repudiandae cruentus cribro absum.",
+    "overallRating": 4,
+    "channel": "google",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-07-19T08:55:26.507Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 8
+      },
+      {
+        "category": "value",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Cora Turcotte",
+    "publicReviewText": "Consequuntur barba doloribus video conitor sit neque vomito.Fantastic stay! Everything was perfect and Z.Attero unus facere explicabo illo.Fantastic stay! Everything was perfect and Z.Quod paulatim socius victoria libero casus.",
+    "overallRating": 3.8,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-15T04:45:00.064Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 9
+      },
+      {
+        "category": "location",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Kristen Pollich",
+    "publicReviewText": "Tergeo somnus pariatur cuius volutabrum vesco absum caelestis damno.Fantastic stay! Everything was perfect and Z.Virgo vorax necessitatibus.",
+    "overallRating": 3.5,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-15T05:41:25.478Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 8
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 7
+      },
+      {
+        "category": "check_in",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Josephine Rohan",
+    "publicReviewText": "Fugit armarium ambulo sapiente credo tyrannus officia summisse ultra.Fantastic stay! Everything was perfect and Z.Vulticulus terror cado deprimo compono basium.Fantastic stay! Everything was perfect and Z.Crur volubilis sui nihil.Fantastic stay! Everything was perfect and Z.Solum xiphias eveniet claustrum corporis vel.",
+    "overallRating": 4,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-28T16:24:03.427Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 7
+      },
+      {
+        "category": "value",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Ignacio Kunze",
+    "publicReviewText": "Apostolus tamquam comedo atrox vulgus sumo thymbra candidus saepe cibus.Fantastic stay! Everything was perfect and Z.Iusto ademptio defluo viriliter odit.Fantastic stay! Everything was perfect and Z.Porro animadverto antiquus claro.Fantastic stay! Everything was perfect and Z.Ara fugit attollo vos iure vilitas sortitus reiciendis tredecim vicinus.",
+    "overallRating": 4.2,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-19T07:07:04.361Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 10
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      },
+      {
+        "category": "value",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Johnnie Nolan",
+    "publicReviewText": "Caste pectus adulatio.The worst part was X. Needs improvement in Y.Repellat vito desparatus rem odio vitium unde.The worst part was X. Needs improvement in Y.Aperiam ventosus spero condico.",
+    "overallRating": 3,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-21T17:58:20.527Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 6
+      },
+      {
+        "category": "check_in",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 6
+      },
+      {
+        "category": "cleanliness",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Susan Hessel",
+    "publicReviewText": "Alienus viscus fuga adimpleo trado ulciscor abundans inflammatio curvo.Fantastic stay! Everything was perfect and Z.Templum stillicidium corpus valens alii ater velit.Fantastic stay! Everything was perfect and Z.Animus atrox sortitus conventus auditor arbustum tendo.Fantastic stay! Everything was perfect and Z.Aliqua cito ullam verto aegrus agnosco beneficium aegrotatio tubineus turpis.",
+    "overallRating": 4.1,
+    "channel": "airbnb",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-07-05T09:56:25.074Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 9
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "check_in",
+        "rating": 10
+      },
+      {
+        "category": "value",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Keith Lang",
+    "publicReviewText": "Pectus clarus adfectus basium quisquam cimentarius demulceo aperte.Fantastic stay! Everything was perfect and Z.Vinco decor amet veritas despecto aut.Fantastic stay! Everything was perfect and Z.Comitatus cornu ante.",
+    "overallRating": 4.1,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-06-10T01:04:09.572Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 9
+      },
+      {
+        "category": "check_in",
+        "rating": 7
+      },
+      {
+        "category": "communication",
+        "rating": 8
+      },
+      {
+        "category": "value",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Guadalupe Walsh I",
+    "publicReviewText": "Coniecto sol coepi arca vestigium spectaculum damnatio defleo correptius antiquus.Fantastic stay! Everything was perfect and Z.Assentator vae sonitus audentia cribro calculus aliquam currus cur voluntarius.Fantastic stay! Everything was perfect and Z.Certe celebrer admoneo subito admoneo sursum adopto.",
+    "overallRating": 2.8,
+    "channel": "google",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-16T18:22:29.461Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Delbert Denesik",
+    "publicReviewText": "Summopere victus tenetur absum solus dolores credo laboriosam.Fantastic stay! Everything was perfect and Z.Taedium curis curatio thymbra calco.",
+    "overallRating": 5,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-06-21T09:24:17.528Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 10
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Delbert Zieme",
+    "publicReviewText": "Alter aggredior coaegresco vicissitudo adhuc avaritia deinde subiungo depraedor casus.Fantastic stay! Everything was perfect and Z.Suscipio temptatio abutor deficio vorax cohibeo concido rerum sapiente vis.Fantastic stay! Everything was perfect and Z.Cariosus molestiae voluptas copiose accommodo uberrime baiulus.Fantastic stay! Everything was perfect and Z.Tabgo aperiam ultio concido trepide territo delibero.",
+    "overallRating": 3.3,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-23T18:37:36.399Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 7
+      },
+      {
+        "category": "check_in",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Velma Gleichner",
+    "publicReviewText": "Sustineo ex peior valeo tolero defleo spiritus.Fantastic stay! Everything was perfect and Z.Viridis theatrum aetas tribuo cado statua calco tardus uxor.",
+    "overallRating": 3,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-15T19:39:04.608Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Johnnie Cole",
+    "publicReviewText": "Cupiditate ager sulum bene aggredior amitto caterva sustineo armarium eos.Fantastic stay! Everything was perfect and Z.Ullam ars caelestis fuga.Fantastic stay! Everything was perfect and Z.Demo considero concedo cresco defero hic torqueo exercitationem vindico.",
+    "overallRating": 3.5,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-03T00:56:27.906Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Kellie Reichel",
+    "publicReviewText": "Adsuesco quae acidus comitatus depono.Fantastic stay! Everything was perfect and Z.Defungo theologus conforto admoneo auctus.Fantastic stay! Everything was perfect and Z.Vorax sollicito tubineus facilis caste minima volup.Fantastic stay! Everything was perfect and Z.Desidero appello tenus cetera astrum argentum clarus debilito.",
+    "overallRating": 4.1,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-12T19:13:34.159Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 10
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 8
+      },
+      {
+        "category": "location",
+        "rating": 10
+      },
+      {
+        "category": "check_in",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Amelia Considine",
+    "publicReviewText": "Aptus conventus tenax denique decor sollicito super contigo.Fantastic stay! Everything was perfect and Z.Supplanto cur aro.Fantastic stay! Everything was perfect and Z.Aperiam concedo defetiscor.Fantastic stay! Everything was perfect and Z.Culpa solum cunctatio tumultus benigne adipiscor.",
+    "overallRating": 4.2,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-01T14:17:46.075Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      },
+      {
+        "category": "communication",
+        "rating": 9
+      },
+      {
+        "category": "check_in",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Sandy Sipes",
+    "publicReviewText": "Crudelis ventito reiciendis considero.The worst part was X. Needs improvement in Y.Accommodo voluptatem thorax peccatus depereo adeo asperiores arguo.",
+    "overallRating": 3.5,
+    "channel": "airbnb",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-18T00:25:37.297Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 6
+      },
+      {
+        "category": "cleanliness",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Kirk Flatley",
+    "publicReviewText": "Eveniet totidem nemo curso.Fantastic stay! Everything was perfect and Z.Curis tubineus capillus vaco crebro.",
+    "overallRating": 4.3,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-27T14:03:14.929Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 6
+      },
+      {
+        "category": "cleanliness",
+        "rating": 8
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      },
+      {
+        "category": "check_in",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Freddie Glover-Stroman",
+    "publicReviewText": "Certus aspicio acervus adhaero.Fantastic stay! Everything was perfect and Z.Colligo dolores coniecto sit ambitus conicio aequus vulpes temeritas.",
+    "overallRating": 3.5,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-11T13:26:23.244Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 8
+      },
+      {
+        "category": "check_in",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Vickie Harvey",
+    "publicReviewText": "Caecus addo crinis carbo nesciunt aeger aperte uterque ulterius.Fantastic stay! Everything was perfect and Z.Accusator aer cribro asporto in.Fantastic stay! Everything was perfect and Z.Trepide anser tabernus atqui blandior undique.",
+    "overallRating": 4,
+    "channel": "airbnb",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-07-29T02:33:56.735Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 6
+      },
+      {
+        "category": "communication",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Blanche Dooley",
+    "publicReviewText": "Stabilis arto vociferor viduo uterque aperio verus contabesco.Fantastic stay! Everything was perfect and Z.Conatus adsuesco avarus bibo vox thesaurus timor antea traho.Fantastic stay! Everything was perfect and Z.Statua suspendo arca vergo aegrotatio vita.Fantastic stay! Everything was perfect and Z.Suppono benevolentia currus despecto non denuncio.",
+    "overallRating": 4.2,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-22T21:36:48.863Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 7
+      },
+      {
+        "category": "communication",
+        "rating": 10
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Charlotte Balistreri",
+    "publicReviewText": "Debilito aeger valetudo celer temperantia torrens suadeo collum thesis.Fantastic stay! Everything was perfect and Z.Tamquam sustineo aer vulnus aiunt.Fantastic stay! Everything was perfect and Z.Barba culpa talio atrocitas molestias repellendus correptius.",
+    "overallRating": 3.8,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-28T15:12:37.466Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 8
+      },
+      {
+        "category": "communication",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Phyllis Morar-Stroman",
+    "publicReviewText": "Vestigium tempora adfero.The worst part was X. Needs improvement in Y.Conqueror conatus deficio aequus vapulus copiose cupio validus.The worst part was X. Needs improvement in Y.Beatae cogito ulciscor volutabrum delibero.The worst part was X. Needs improvement in Y.Attollo barba quos alveus dolore subvenio velociter tamisium.",
+    "overallRating": 3.2,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-30T06:17:40.260Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      },
+      {
+        "category": "location",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Wesley Breitenberg",
+    "publicReviewText": "Vestrum adsuesco color tempus talus denego admoveo.The worst part was X. Needs improvement in Y.Thymbra amitto copiose dolores aspernatur depono commodi conor tonsor tepidus.",
+    "overallRating": 3.1,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-06T11:05:12.333Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Natalie Kohler",
+    "publicReviewText": "Totam demens cupiditas.Fantastic stay! Everything was perfect and Z.Perspiciatis auctus sulum conspergo adeptio aer aeternus cupiditate asporto.Fantastic stay! Everything was perfect and Z.Dolores patior eius tricesimus attonbitus aufero tres quibusdam vester iusto.",
+    "overallRating": 3.9,
+    "channel": "airbnb",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-20T10:19:07.435Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 8
+      },
+      {
+        "category": "value",
+        "rating": 6
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      },
+      {
+        "category": "location",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Nathaniel Schuppe",
+    "publicReviewText": "Aro caries currus utpote absorbeo subito aduro.Fantastic stay! Everything was perfect and Z.Sub atavus tametsi victus arca antiquus civis hic.Fantastic stay! Everything was perfect and Z.Debilito viduo iure aro ulciscor.",
+    "overallRating": 3.7,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-06-17T20:33:12.183Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 9
+      },
+      {
+        "category": "check_in",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Leo Walter",
+    "publicReviewText": "Comes depromo timidus crustulum succedo umbra deleniti suasoria.Fantastic stay! Everything was perfect and Z.Congregatio ceno uxor aiunt tamisium contego sub minus degenero.Fantastic stay! Everything was perfect and Z.Adulatio ex cena.",
+    "overallRating": 4.1,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-07T18:49:50.773Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 9
+      },
+      {
+        "category": "location",
+        "rating": 9
+      },
+      {
+        "category": "communication",
+        "rating": 7
+      },
+      {
+        "category": "value",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Dwight Turcotte",
+    "publicReviewText": "Vox coepi alveus aeneus adhaero cupiditas tabgo speculum mollitia.Fantastic stay! Everything was perfect and Z.Suppellex totus terreo aperte aestas quae amitto magni utroque.Fantastic stay! Everything was perfect and Z.Bene aestus cubo trado subito urbanus vestigium velut.Fantastic stay! Everything was perfect and Z.Coniecto concido crur comitatus ut tolero voco causa termes.",
+    "overallRating": 3.6,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-28T08:16:57.563Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 6
+      },
+      {
+        "category": "location",
+        "rating": 9
+      },
+      {
+        "category": "communication",
+        "rating": 8
+      },
+      {
+        "category": "value",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Mr. Ricardo Shields",
+    "publicReviewText": "Iure articulus creptio atque adulescens.Fantastic stay! Everything was perfect and Z.Debilito vociferor creta traho calco autem est dolore.Fantastic stay! Everything was perfect and Z.Sumptus tenus defluo.Fantastic stay! Everything was perfect and Z.Deorsum stabilis acerbitas esse abutor asporto.",
+    "overallRating": 3.3,
+    "channel": "google",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-10T11:58:47.117Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 6
+      },
+      {
+        "category": "check_in",
+        "rating": 6
+      },
+      {
+        "category": "communication",
+        "rating": 6
+      },
+      {
+        "category": "cleanliness",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Mr. Phil Schoen II",
+    "publicReviewText": "Quaerat auxilium depereo corrumpo triduana vulgaris.Fantastic stay! Everything was perfect and Z.Bonus argumentum officia.",
+    "overallRating": 3.8,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-10-03T13:07:33.625Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 9
+      },
+      {
+        "category": "value",
+        "rating": 7
+      },
+      {
+        "category": "communication",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Salvatore Boehm DVM",
+    "publicReviewText": "Nulla vorax adfectus deputo verecundia asperiores.Fantastic stay! Everything was perfect and Z.Voluptates undique capio.Fantastic stay! Everything was perfect and Z.Ulterius pariatur culpa comparo amicitia cupio deficio angustus cunae.Fantastic stay! Everything was perfect and Z.Compono nisi sordeo molestiae verus vinitor.",
+    "overallRating": 3,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-02T13:32:07.292Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Perry Hintz",
+    "publicReviewText": "Tactus tersus capillus abeo dolorem tantum coerceo labore approbo.The worst part was X. Needs improvement in Y.Cinis viriliter spes ut.The worst part was X. Needs improvement in Y.Carus dignissimos amitto supplanto unus mollitia soluta creator tandem concido.",
+    "overallRating": 1.9,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-02T07:05:49.350Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 9
+      },
+      {
+        "category": "value",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Wanda Gerlach",
+    "publicReviewText": "Valetudo aut solio theatrum sustineo.Fantastic stay! Everything was perfect and Z.Sto asporto stipes.Fantastic stay! Everything was perfect and Z.Inventore callide calco temeritas in ciminatio sufficio.",
+    "overallRating": 2.8,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-06-06T08:48:41.345Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Rogelio Bradtke",
+    "publicReviewText": "Creta certe supplanto vereor viridis dedico textilis.Fantastic stay! Everything was perfect and Z.Curatio rem tametsi patior damnatio damno attonbitus eos coadunatio conforto.",
+    "overallRating": 3.8,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-07T00:33:32.473Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 9
+      },
+      {
+        "category": "check_in",
+        "rating": 7
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Mr. Michael O'Kon",
+    "publicReviewText": "Auxilium cunabula quas sustineo.Fantastic stay! Everything was perfect and Z.Arbor clam numquam consuasor claro sapiente quae delego.Fantastic stay! Everything was perfect and Z.Adinventitias succurro tego.Fantastic stay! Everything was perfect and Z.Denuo celebrer celer amor arx.",
+    "overallRating": 3.7,
+    "channel": "google",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-07-11T23:19:17.473Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "cleanliness",
+        "rating": 8
+      },
+      {
+        "category": "check_in",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Bradford Marquardt DDS",
+    "publicReviewText": "Provident sumptus pecus degero bellicus complectus cunctatio sodalitas vulnus.The worst part was X. Needs improvement in Y.Thema vomito laudantium talis pecto sperno vinculum dens.The worst part was X. Needs improvement in Y.Vox speciosus uterque ab sed pecto speciosus.",
+    "overallRating": 2.1,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-02T22:26:43.929Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 8
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "check_in",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Lester Feil",
+    "publicReviewText": "Pel vespillo atrox aro aureus summa voluptatem.Fantastic stay! Everything was perfect and Z.Creo titulus dapifer aedificium amitto ultio vestigium desolo.Fantastic stay! Everything was perfect and Z.Audentia culpo denego benevolentia conturbo admoveo usitas.Fantastic stay! Everything was perfect and Z.Vero optio temporibus sortitus adflicto verto nemo tremo pectus fugit.",
+    "overallRating": 3.5,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-27T21:20:22.578Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 8
+      },
+      {
+        "category": "communication",
+        "rating": 10
+      },
+      {
+        "category": "check_in",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Regina Emmerich",
+    "publicReviewText": "Subseco ciminatio canto clamo quo audacia.The worst part was X. Needs improvement in Y.Calco villa architecto vulariter viscus antiquus abscido tenax.The worst part was X. Needs improvement in Y.Aperio ocer aegre sed curatio color amet.The worst part was X. Needs improvement in Y.Commodi dolorum super delicate decens quidem vicissitudo solus casso.",
+    "overallRating": 1.6,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-19T18:55:07.502Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 7
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Rose Stehr",
+    "publicReviewText": "Deinde auctus depono patior civis vinculum cum studio ars suscipit.The worst part was X. Needs improvement in Y.Capio sapiente tondeo cogo quisquam adsum.The worst part was X. Needs improvement in Y.Crur vomito delibero confero vesco.The worst part was X. Needs improvement in Y.Voveo veritas censura caecus tempus ab teneo vere atrox crur.",
+    "overallRating": 2.1,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-29T12:51:45.754Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 7
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 7
+      },
+      {
+        "category": "value",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Roman Lemke-Ortiz",
+    "publicReviewText": "Tamdiu versus callide centum celo.The worst part was X. Needs improvement in Y.Consequuntur theologus careo taedium.The worst part was X. Needs improvement in Y.Subnecto capio spiculum adhaero.The worst part was X. Needs improvement in Y.Conduco voluptatum sortitus magnam trucido.",
+    "overallRating": 2.4,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-26T04:23:20.285Z",
+    "isApprovedForPublicDisplay": true,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 7
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      },
+      {
+        "category": "location",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Kirk Hagenes-Kunze",
+    "publicReviewText": "Umquam acquiro ustilo texo cilicium aut aspernatur illum venustas.Fantastic stay! Everything was perfect and Z.Quo atqui abstergo validus desolo annus tutamen.Fantastic stay! Everything was perfect and Z.Supplanto ambulo magnam thorax perferendis.",
+    "overallRating": 3.1,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-18T10:08:56.217Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "check_in",
+        "rating": 6
+      },
+      {
+        "category": "value",
+        "rating": 5
+      },
+      {
+        "category": "cleanliness",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Dana Murray",
+    "publicReviewText": "Nostrum artificiose catena contigo amitto.The worst part was X. Needs improvement in Y.Taedium desolo subito cohors.",
+    "overallRating": 3.2,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-25T04:55:12.187Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 8
+      },
+      {
+        "category": "check_in",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Bobbie Williamson",
+    "publicReviewText": "Demum stillicidium tot.Fantastic stay! Everything was perfect and Z.Demoror arbustum error studio avaritia antiquus theologus abstergo pectus fugiat.Fantastic stay! Everything was perfect and Z.Damno communis timidus degero minima sponte quasi dolorem consequatur adstringo.Fantastic stay! Everything was perfect and Z.Odio aeger aetas vespillo apto.",
+    "overallRating": 3.5,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-10T22:33:08.339Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 9
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Eduardo Stracke V",
+    "publicReviewText": "Fugit curtus magnam claro cumque tunc perferendis agnosco tardus.Fantastic stay! Everything was perfect and Z.Alii aqua assentator circumvenio somniculosus argentum.Fantastic stay! Everything was perfect and Z.Tui decumbo tactus vestrum patruus sumo super delectatio ad alveus.",
+    "overallRating": 3.8,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-13T19:11:21.099Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 8
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Patrick Reilly",
+    "publicReviewText": "Congregatio atrocitas arcesso advoco tripudio cimentarius.Fantastic stay! Everything was perfect and Z.Thalassinus arca theatrum caveo cicuta voluptates cilicium.Fantastic stay! Everything was perfect and Z.Vel ventosus debilito error.",
+    "overallRating": 4.3,
+    "channel": "google",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-09T12:30:28.598Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 10
+      },
+      {
+        "category": "cleanliness",
+        "rating": 9
+      },
+      {
+        "category": "value",
+        "rating": 8
+      },
+      {
+        "category": "location",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Jon Schulist",
+    "publicReviewText": "Animi esse commodo condico correptius torqueo versus.Fantastic stay! Everything was perfect and Z.Coruscus at necessitatibus ex turba adimpleo claro.",
+    "overallRating": 3.7,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-30T10:11:53.504Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 9
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 8
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Elijah Treutel-Zemlak",
+    "publicReviewText": "Acceptus sunt caveo angelus cerno armarium viridis pectus.Fantastic stay! Everything was perfect and Z.Sustineo cras clarus versus.Fantastic stay! Everything was perfect and Z.Demonstro correptius amiculum vulnero cogito dolores tubineus.",
+    "overallRating": 3.8,
+    "channel": "airbnb",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-07-12T15:26:15.907Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 10
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Zachary Corkery",
+    "publicReviewText": "Adsidue quis illum corrumpo solutio bis desparatus ter verbum.Fantastic stay! Everything was perfect and Z.Atavus veritas audeo.Fantastic stay! Everything was perfect and Z.Aestus careo crur ipsum.",
+    "overallRating": 3.4,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-07-01T18:22:24.192Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 6
+      },
+      {
+        "category": "communication",
+        "rating": 10
+      },
+      {
+        "category": "check_in",
+        "rating": 6
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Irving Herman",
+    "publicReviewText": "Virgo eius vox peccatus argumentum uxor vester subseco subiungo annus.Fantastic stay! Everything was perfect and Z.Via corporis voluptatibus ipsa repudiandae triduana delicate subito cognatus.",
+    "overallRating": 4.5,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-06-17T18:57:40.488Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 10
+      },
+      {
+        "category": "value",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Antonia Gusikowski III",
+    "publicReviewText": "Blandior desparatus dolores non molestias constans sopor tamisium.Fantastic stay! Everything was perfect and Z.Aeternus arbor animus cumque aequitas stipes.",
+    "overallRating": 3,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-04T17:41:46.199Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "check_in",
+        "rating": 7
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Annette Keebler",
+    "publicReviewText": "Reprehenderit cupressus dens alter repudiandae.Fantastic stay! Everything was perfect and Z.Laudantium apostolus sulum creber cinis denuncio cariosus.",
+    "overallRating": 3.8,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-19T06:47:09.116Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Loretta Hane",
+    "publicReviewText": "Sed ante stillicidium modi ventito crudelis cur amitto argentum.The worst part was X. Needs improvement in Y.Vito sub coma vinitor decimus surculus centum.The worst part was X. Needs improvement in Y.Cavus caterva adstringo earum vestigium.The worst part was X. Needs improvement in Y.Reprehenderit eaque eius bos theca conqueror stillicidium sollicito sustineo tot.",
+    "overallRating": 2.6,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-30T14:21:36.400Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 10
+      },
+      {
+        "category": "check_in",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Elisa Medhurst",
+    "publicReviewText": "Animadverto cura aureus textor.Fantastic stay! Everything was perfect and Z.Utilis amiculum architecto tabgo.Fantastic stay! Everything was perfect and Z.Umquam porro venustas stillicidium.",
+    "overallRating": 4.3,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-24T11:04:02.607Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 9
+      },
+      {
+        "category": "value",
+        "rating": 8
+      },
+      {
+        "category": "check_in",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Richard Hudson",
+    "publicReviewText": "Vesco commodo reprehenderit toties decor.The worst part was X. Needs improvement in Y.Subiungo quia incidunt.The worst part was X. Needs improvement in Y.Virtus odio vulnero undique pecus ulterius.The worst part was X. Needs improvement in Y.Creator coerceo aliqua alter aegrus adduco architecto.",
+    "overallRating": 2.1,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-13T16:18:24.905Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 10
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 7
+      },
+      {
+        "category": "location",
+        "rating": 9
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Tasha Keeling MD",
+    "publicReviewText": "Sapiente quisquam libero atrox commodo adopto adimpleo coerceo.Fantastic stay! Everything was perfect and Z.Conculco aggero repudiandae.Fantastic stay! Everything was perfect and Z.Laboriosam auctus consequuntur defungo antea.",
+    "overallRating": 3.6,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-18T03:39:20.148Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 6
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 10
+      },
+      {
+        "category": "cleanliness",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Amelia Larkin",
+    "publicReviewText": "Consuasor aperiam saepe coniuratio derideo sopor tot altus earum cubicularis.Fantastic stay! Everything was perfect and Z.Adsuesco suus verus confugo tam depromo quas patrocinor.",
+    "overallRating": 4,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-13T00:57:06.195Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 9
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      },
+      {
+        "category": "location",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Domingo Lockman-Hermiston",
+    "publicReviewText": "Bonus termes celer.Fantastic stay! Everything was perfect and Z.Amet rem verumtamen talis curis arma causa communis delego capio.",
+    "overallRating": 4,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-11T21:42:09.986Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      },
+      {
+        "category": "communication",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Santos Ortiz",
+    "publicReviewText": "Atqui amor asperiores thymbra tertius crebro.Fantastic stay! Everything was perfect and Z.Provident amicitia basium tenus tabella conscendo tantillus natus.Fantastic stay! Everything was perfect and Z.Credo temperantia chirographum.Fantastic stay! Everything was perfect and Z.Tego alii dedico viridis angustus cupiditas venia.",
+    "overallRating": 4.3,
+    "channel": "airbnb",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-26T15:46:51.268Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 9
+      },
+      {
+        "category": "location",
+        "rating": 7
+      },
+      {
+        "category": "communication",
+        "rating": 10
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Ms. Priscilla White",
+    "publicReviewText": "Auxilium spiculum vulgus subvenio vinum.The worst part was X. Needs improvement in Y.Angulus suspendo ipsam tepesco bene creo theca odit adipisci.The worst part was X. Needs improvement in Y.Comes tantum testimonium admoveo reprehenderit tonsor tutamen adficio.The worst part was X. Needs improvement in Y.Volaticus caste aestivus comprehendo culpo suscipit tremo.",
+    "overallRating": 3,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-19T01:15:47.919Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 6
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "check_in",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Ms. Betsy Johns",
+    "publicReviewText": "Amplitudo damno amicitia ustilo damnatio derideo caecus statim antiquus asporto.Fantastic stay! Everything was perfect and Z.Vere sum curis cogo aer acer adsuesco.",
+    "overallRating": 3.3,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-07T22:50:12.313Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "check_in",
+        "rating": 5
+      },
+      {
+        "category": "cleanliness",
+        "rating": 10
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "listingName": "Family House - Kensington Gardens",
+    "guestName": "Horace Zboncak II",
+    "publicReviewText": "Verbum cuppedia thesaurus alveus volaticus antiquus.Fantastic stay! Everything was perfect and Z.Sui antea sollicito.",
+    "overallRating": 4,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-16T21:11:21.697Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 9
+      },
+      {
+        "category": "check_in",
+        "rating": 7
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Jessie Kuvalis",
+    "publicReviewText": "Vero facilis sumo crur civis labore tricesimus usitas crur.The worst part was X. Needs improvement in Y.Pectus torrens sublime deputo.",
+    "overallRating": 2.7,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-05T10:38:17.359Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 10
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 7
+      },
+      {
+        "category": "value",
+        "rating": 7
+      },
+      {
+        "category": "location",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Antonia Carroll",
+    "publicReviewText": "Abundans vilicus vix.The worst part was X. Needs improvement in Y.Cado correptius vito spes.",
+    "overallRating": 1.8,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-14T13:24:29.205Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 6
+      },
+      {
+        "category": "location",
+        "rating": 10
+      },
+      {
+        "category": "cleanliness",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Ollie Howell",
+    "publicReviewText": "Cultellus vilis deleniti perspiciatis adficio thesis degero utpote.Fantastic stay! Everything was perfect and Z.Confido curtus audeo.Fantastic stay! Everything was perfect and Z.Ipsa truculenter benigne considero.Fantastic stay! Everything was perfect and Z.Solum auditor clam arx depopulo adopto articulus animadverto theatrum.",
+    "overallRating": 3.3,
+    "channel": "hostaway",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-09T08:24:25.973Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 9
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Jerry Wiegand",
+    "publicReviewText": "Voro summopere anser.Fantastic stay! Everything was perfect and Z.Adhuc testimonium angelus carpo deprecator censura acquiro demens.Fantastic stay! Everything was perfect and Z.Suppono audentia cultellus nemo apud.",
+    "overallRating": 2.8,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-06-28T06:05:58.537Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "cleanliness",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "listingName": "3D N7 B - Islington Commons",
+    "guestName": "Edmund Corkery",
+    "publicReviewText": "Acer aedificium corroboro annus verus vis tabesco degenero talio cetera.Fantastic stay! Everything was perfect and Z.Error somniculosus sulum ultio adaugeo vestigium vilicus aufero.",
+    "overallRating": 3.8,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-06-22T16:01:51.189Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "value",
+        "rating": 10
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Albert Romaguera",
+    "publicReviewText": "Attero cunabula aer ambulo calco solutio.Fantastic stay! Everything was perfect and Z.Somniculosus vobis celer abduco.Fantastic stay! Everything was perfect and Z.Audax dens dedico animadverto.",
+    "overallRating": 3.8,
+    "channel": "google",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-07-17T10:44:58.621Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 9
+      },
+      {
+        "category": "cleanliness",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Dr. Lorene Sporer III",
+    "publicReviewText": "Corpus compello altus benevolentia comis tempus clarus talis.The worst part was X. Needs improvement in Y.Saepe quibusdam defungo aveho labore cohibeo somniculosus.The worst part was X. Needs improvement in Y.Harum aggredior cedo currus sequi tutamen.",
+    "overallRating": 2.9,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-06-29T10:25:31.986Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "respect_house_rules",
+        "rating": 10
+      },
+      {
+        "category": "cleanliness",
+        "rating": 7
+      },
+      {
+        "category": "check_in",
+        "rating": 6
+      },
+      {
+        "category": "communication",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Amy D'Amore",
+    "publicReviewText": "Sperno corona sunt civis arcesso aeger aggero cometes.The worst part was X. Needs improvement in Y.Veniam catena dolore civitas id desidero patrocinor tero cras ceno.",
+    "overallRating": 3,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-08-25T20:16:02.758Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "check_in",
+        "rating": 6
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Priscilla Trantow",
+    "publicReviewText": "Bis ait custodia caterva taceo animus condico.The worst part was X. Needs improvement in Y.Cicuta deduco absorbeo catena compono ater.The worst part was X. Needs improvement in Y.Sono subiungo cito cum antiquus.The worst part was X. Needs improvement in Y.Accommodo textilis vehemens tamen soluta a defetiscor chirographum alioqui deporto.",
+    "overallRating": 2.5,
+    "channel": "booking",
+    "reviewType": "host-to-guest",
+    "submittedAt": "2025-09-06T18:29:12.267Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "cleanliness",
+        "rating": 7
+      },
+      {
+        "category": "check_in",
+        "rating": 8
+      },
+      {
+        "category": "location",
+        "rating": 9
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "listingName": "2B N1 A - Shoreditch Heights",
+    "guestName": "Michael Labadie",
+    "publicReviewText": "Conatus conatus suppono solium socius volva defluo exercitationem sortitus vinculum.Fantastic stay! Everything was perfect and Z.Tabesco amitto vesper cras ustulo rerum decretum ventosus a adinventitias.Fantastic stay! Everything was perfect and Z.Antea considero denique absque conventus urbs.",
+    "overallRating": 3.5,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-07-18T19:19:34.922Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 8
+      },
+      {
+        "category": "communication",
+        "rating": 6
+      },
+      {
+        "category": "cleanliness",
+        "rating": 6
+      },
+      {
+        "category": "value",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "listingName": "Penthouse - Canary Wharf View",
+    "guestName": "Leah Ruecker",
+    "publicReviewText": "Itaque mollitia capio spiculum tolero.Fantastic stay! Everything was perfect and Z.Absens xiphias vehemens cur triduana via.",
+    "overallRating": 3.5,
+    "channel": "hostaway",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-09-04T07:29:31.954Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "communication",
+        "rating": 8
+      },
+      {
+        "category": "check_in",
+        "rating": 7
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 8
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "listingName": "Studio - Richmond Park Lodge",
+    "guestName": "Kyle Orn-Harvey III",
+    "publicReviewText": "Aufero avarus damno celo quod voluptas curso bellum curso qui.Fantastic stay! Everything was perfect and Z.Similique sursum unus deleo conscendo tersus tabella collum damnatio.Fantastic stay! Everything was perfect and Z.Crudelis comedo tristis speciosus ipsam suppellex.",
+    "overallRating": 4.2,
+    "channel": "booking",
+    "reviewType": "guest-to-host",
+    "submittedAt": "2025-08-30T11:29:06.911Z",
+    "isApprovedForPublicDisplay": false,
+    "categoryBreakdown": [
+      {
+        "category": "location",
+        "rating": 9
+      },
+      {
+        "category": "check_in",
+        "rating": 9
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 7
+      }
+    ]
+  }
+]
